@@ -1,0 +1,841 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\areas\\manage\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\areas\\manage\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\areas\\manage\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\areas\\manage\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\areas\\manage\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\areas\\manage\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\areas\\manage\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\areas\\manage\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\controllers\\basketitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\controllers\\basketitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\helpers\\accounts\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\helpers\\accounts\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\servicces\\basketitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\servicces\\basketitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\viewmodel\\product\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\viewmodel\\product\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\viewmodel\\product\\addproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\viewmodel\\product\\addproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\viewmodel\\product\\getallproductsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\viewmodel\\product\\getallproductsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\entities\\concrets\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\entities\\concrets\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\viewmodel\\category\\addcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\viewmodel\\category\\addcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\viewmodel\\category\\getallcategoriesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\viewmodel\\category\\getallcategoriesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\viewmodel\\category\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\viewmodel\\category\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\entities\\concrets\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\entities\\concrets\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\entities\\concrets\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\entities\\concrets\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\entities\\abstracks\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\entities\\abstracks\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\entities\\concrets\\userbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\entities\\concrets\\userbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\entities\\concrets\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\entities\\concrets\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Migrations\\20240619114016_updatectr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationGameStore\\Migrations\\20240619114016_updatectr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Migrations\\20240619113747_updatectr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationGameStore\\Migrations\\20240619113747_updatectr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\views\\home\\community.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\views\\home\\community.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\views\\home\\chats.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\views\\home\\chats.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\services\\istoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\services\\istoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\services\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\services\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\services\\iuserbasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\services\\iuserbasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\services\\ibasketitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\services\\ibasketitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\controllers\\userbasketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\controllers\\userbasketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\viewmodel\\basket\\basketitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\viewmodel\\basket\\basketitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\viewmodel\\basket\\getallbasketvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\viewmodel\\basket\\getallbasketvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\viewmodel\\basket\\userbasketvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\viewmodel\\basket\\userbasketvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\views\\home\\streams.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\views\\home\\streams.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\views\\home\\market.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\views\\home\\market.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\views\\home\\store.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\views\\home\\store.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\views\\home\\members.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\views\\home\\members.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\views\\home\\news.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\views\\home\\news.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|c:\\users\\fmemm\\onedrive\\desktop\\gamest\\webapplicationgamestore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EAD51B-1095-44D9-AD62-6C670907C899}|WebApplicationGameStore\\WebApplicationGameStore.csproj|solutionrelative:webapplicationgamestore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasketItemController.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Controllers\\BasketItemController.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Controllers\\BasketItemController.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Controllers\\BasketItemController.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\Controllers\\BasketItemController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:16:27.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Helpers\\Accounts\\UserRole.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Helpers\\Accounts\\UserRole.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Helpers\\Accounts\\UserRole.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\Helpers\\Accounts\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:16:11.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApplicationGameStore\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T16:22:30.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApplicationGameStore\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T16:23:03.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Areas\\Manage\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Areas\\Manage\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Areas\\Manage\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebApplicationGameStore\\Areas\\Manage\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T11:31:13.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Areas\\Manage\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Areas\\Manage\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Areas\\Manage\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "WebApplicationGameStore\\Areas\\Manage\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T11:31:32.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Areas\\Manage\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Areas\\Manage\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Areas\\Manage\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "WebApplicationGameStore\\Areas\\Manage\\Views\\Product\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T11:30:34.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Areas\\Manage\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Areas\\Manage\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Areas\\Manage\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\Areas\\Manage\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:19:25.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BasketItemService.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Servicces\\BasketItemService.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Servicces\\BasketItemService.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Servicces\\BasketItemService.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\Servicces\\BasketItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:30:48.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\ViewModel\\Product\\UpdateProductVM.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\ViewModel\\Product\\UpdateProductVM.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\ViewModel\\Product\\UpdateProductVM.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\ViewModel\\Product\\UpdateProductVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:01:45.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\ViewModel\\Product\\AddProductVM.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\ViewModel\\Product\\AddProductVM.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\ViewModel\\Product\\AddProductVM.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\ViewModel\\Product\\AddProductVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:00:51.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllProductsVM.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\ViewModel\\Product\\GetAllProductsVM.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\ViewModel\\Product\\GetAllProductsVM.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\ViewModel\\Product\\GetAllProductsVM.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\ViewModel\\Product\\GetAllProductsVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:01:22.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T16:19:57.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Entities\\Concrets\\Product.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Entities\\Concrets\\Product.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Entities\\Concrets\\Product.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\Entities\\Concrets\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:44:06.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\ViewModel\\Category\\AddCategoryVM.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\ViewModel\\Category\\AddCategoryVM.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\ViewModel\\Category\\AddCategoryVM.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\ViewModel\\Category\\AddCategoryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:57:03.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetAllCategoriesVM.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\ViewModel\\Category\\GetAllCategoriesVM.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\ViewModel\\Category\\GetAllCategoriesVM.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\ViewModel\\Category\\GetAllCategoriesVM.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\ViewModel\\Category\\GetAllCategoriesVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:57:38.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\ViewModel\\Category\\UpdateCategoryVM.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\ViewModel\\Category\\UpdateCategoryVM.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\ViewModel\\Category\\UpdateCategoryVM.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\ViewModel\\Category\\UpdateCategoryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:59:43.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserBasket.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Entities\\Concrets\\UserBasket.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Entities\\Concrets\\UserBasket.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Entities\\Concrets\\UserBasket.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\Entities\\Concrets\\UserBasket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:45:05.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Entities\\Concrets\\User.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Entities\\Concrets\\User.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Entities\\Concrets\\User.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\Entities\\Concrets\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:45:49.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Entities\\Concrets\\Category.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Entities\\Concrets\\Category.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Entities\\Concrets\\Category.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\Entities\\Concrets\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:41:52.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Entities\\Concrets\\BasketItem.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Entities\\Concrets\\BasketItem.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Entities\\Concrets\\BasketItem.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\Entities\\Concrets\\BasketItem.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:41:23.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Entities\\Abstracks\\Entity.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Entities\\Abstracks\\Entity.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Entities\\Abstracks\\Entity.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\Entities\\Abstracks\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:40:00.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:35:34.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240619114016_updatectr.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Migrations\\20240619114016_updatectr.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Migrations\\20240619114016_updatectr.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Migrations\\20240619114016_updatectr.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\Migrations\\20240619114016_updatectr.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:40:16.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\appsettings.json",
+              "RelativeToolTip": "WebApplicationGameStore\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-15T13:11:28.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240619113747_updatectr.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Migrations\\20240619113747_updatectr.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Migrations\\20240619113747_updatectr.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Migrations\\20240619113747_updatectr.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\Migrations\\20240619113747_updatectr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:37:47.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Chats.cshtml",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Home\\Chats.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Views\\Home\\Chats.cshtml",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Home\\Chats.cshtml",
+              "RelativeToolTip": "WebApplicationGameStore\\Views\\Home\\Chats.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T12:53:56.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Community.cshtml",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Home\\Community.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Views\\Home\\Community.cshtml",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Home\\Community.cshtml",
+              "RelativeToolTip": "WebApplicationGameStore\\Views\\Home\\Community.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAmwE4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T13:43:35.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Home\\Profile.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Views\\Home\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Home\\Profile.cshtml",
+              "RelativeToolTip": "WebApplicationGameStore\\Views\\Home\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T12:55:02.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\DTOs\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:11:39.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplicationGameStore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T11:34:13.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\Services\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:26:46.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\DTOs\\LoginDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:12:01.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Services\\Interface.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Services\\Interface.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Services\\Interface.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\Services\\Interface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:27:17.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IStoreService.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Services\\IStoreService.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Services\\IStoreService.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Services\\IStoreService.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\Services\\IStoreService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:27:48.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IUserBasketService.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Services\\IUserBasketService.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Services\\IUserBasketService.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Services\\IUserBasketService.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\Services\\IUserBasketService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:28:12.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IBasketItemService.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Services\\IBasketItemService.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Services\\IBasketItemService.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Services\\IBasketItemService.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\Services\\IBasketItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:26:14.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserBasketVM.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\ViewModel\\Basket\\UserBasketVM.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\ViewModel\\Basket\\UserBasketVM.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\ViewModel\\Basket\\UserBasketVM.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\ViewModel\\Basket\\UserBasketVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:45:20.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GetAllBasketVM.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\ViewModel\\Basket\\GetAllBasketVM.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\ViewModel\\Basket\\GetAllBasketVM.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\ViewModel\\Basket\\GetAllBasketVM.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\ViewModel\\Basket\\GetAllBasketVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:44:52.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BasketItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\ViewModel\\Basket\\BasketItemVM.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\ViewModel\\Basket\\BasketItemVM.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\ViewModel\\Basket\\BasketItemVM.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\ViewModel\\Basket\\BasketItemVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:43:37.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserBasketController.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Controllers\\UserBasketController.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Controllers\\UserBasketController.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Controllers\\UserBasketController.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\Controllers\\UserBasketController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:41:39.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Streams.cshtml",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Home\\Streams.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Views\\Home\\Streams.cshtml",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Home\\Streams.cshtml",
+              "RelativeToolTip": "WebApplicationGameStore\\Views\\Home\\Streams.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T13:59:32.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Store.cshtml",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Home\\Store.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Views\\Home\\Store.cshtml",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Home\\Store.cshtml",
+              "RelativeToolTip": "WebApplicationGameStore\\Views\\Home\\Store.cshtml",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAmwEsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T13:51:21.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Members.cshtml",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Home\\Members.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Views\\Home\\Members.cshtml",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Home\\Members.cshtml",
+              "RelativeToolTip": "WebApplicationGameStore\\Views\\Home\\Members.cshtml",
+              "ViewState": "AQIAAHEBAAAAAAAAAAAYwH8BAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T13:48:36.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "News.cshtml",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Home\\News.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Views\\Home\\News.cshtml",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Home\\News.cshtml",
+              "RelativeToolTip": "WebApplicationGameStore\\Views\\Home\\News.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwB8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T13:34:45.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplicationGameStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAIoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T12:56:51.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Market.cshtml",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Home\\Market.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Views\\Home\\Market.cshtml",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Home\\Market.cshtml",
+              "RelativeToolTip": "WebApplicationGameStore\\Views\\Home\\Market.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T13:53:01.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplicationGameStore\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwEgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:53:40.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationGameStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fmemm\\OneDrive\\Desktop\\gamest\\WebApplicationGameStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplicationGameStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T13:33:01.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
